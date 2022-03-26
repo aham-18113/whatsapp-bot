@@ -1,5 +1,5 @@
 # python-whatsapp-bot
-This is a Whatsapp Chatbot that responds with messages or images of cats when either of them is requested.
+This is a Whatsapp Chatbot that responds with messages when they are requested.
 
 # Usage
 1. Download and install Python3.
